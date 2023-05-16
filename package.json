@@ -3,7 +3,6 @@
   "version": "3.2.19",
   "main": "index.js",
   "types": "dist/timeline.d.ts",
-  "homepage": "http://aaron9000.github.io/react-image-timeline",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.2",
@@ -51,7 +50,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaron9000/react-image-timeline.git"
+    "url": "https://github.com/stuartf/react-img-timeline.git"
   },
   "keywords": [
     "react image timeline",
@@ -63,9 +62,9 @@
     "time",
     "line"
   ],
-  "author": "Aaron Geisler",
+  "contributors": ["Aaron Geisler", "Stuart Freeman"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aaron9000/react-image-timeline/issues"
+    "url": "https://github.com/stuartf/react-img-timeline/issues"
   }
 }
